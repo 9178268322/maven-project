@@ -11,6 +11,7 @@
 	<groupId>com.wbl.jenkins</groupId>
 	<artifactId>jenkins-maven-based-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>jenkins-maven-based-project</name>
 	<description>This is first jenkins maven based project</description>
 
