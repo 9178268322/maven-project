@@ -17,5 +17,10 @@ public class JenkinsMavenBasedProjectApplication {
 	public String test() {
 		return "Hello, World";
 	}
+	
+	@GetMapping(value = "/hello")
+	public String test1() {
+		return "Jenkins 1";
+	}
 
 }
